@@ -72,14 +72,6 @@ https://amirmahdi-dev.github.io/cms-dashboard-admin/
   <img src="https://streak-stats.demolab.com?user=amirmahdi-dev&theme=radical&hide_border=true" />
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amirmahdi-dev/amirmahdi-dev/output/github-contribution-grid-snake.svg" />
-</p>
-
 # 🧠 Dev Quote of the Day
 
 <p align="center">
