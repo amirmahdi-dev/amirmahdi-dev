@@ -80,11 +80,6 @@ https://amirmahdi-dev.github.io/cms-dashboard-admin/
   <img src="https://raw.githubusercontent.com/amirmahdi-dev/amirmahdi-dev/output/github-contribution-grid-snake.svg" />
 </p>
 
-⚠️ To activate the snake:
-Create a GitHub Action using `Platane/snk` — اگر خواستی راه‌اندازیشو قدم‌به‌قدم میگم.
-
----
-
 # 🧠 Dev Quote of the Day
 
 <p align="center">
