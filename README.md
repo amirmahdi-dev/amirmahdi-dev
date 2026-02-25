@@ -57,7 +57,7 @@
 - Modular architecture  
 
 🔗 Live Demo:  
-https://amirmahdi-dev.github.io/cms-dashboard-admin/
+<!--https://amirmahdi-dev.github.io/cms-dashboard-admin/-->
 
 ---
 
